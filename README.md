@@ -1,6 +1,6 @@
 # School_District_Analysis
 ## Project Overview
-The school board has requested an analysis of the district's math and reading performance. Combining school data, which includes school type, student size and budget, with student data allows for a summary level analysis of the district, by individual schools and grade level. Evidence of academic dishonestly was discovered for Thomas High School's ninth graders, so while the issue is being investigated, it's been decided to omit Thomas High Schools' ninth grade reading and math scores by replacing their scores with NaNs. In doing so, overall summaries of averages and percentages of passing grades needs to be revised. 
+The school board has requested an analysis of the district's math and reading performance. Combining school data, which includes school type, student size and budget, with student data allows for a summary level analysis of the district, by individual schools and grade level. Evidence of academic dishonestly was discovered for Thomas High School's ninth grade scores, so while the issue is being investigated, it's been decided to omit Thomas High Schools' ninth grade reading and math scores by replacing their scores with NaNs. In doing so, overall summaries of averages and percentages of passing grades needs to be revised. 
 
 ## Resources
 - Data Source: schools_complete.csv, students_complete.csv
@@ -10,7 +10,7 @@ The school board has requested an analysis of the district's math and reading pe
 
 Challenge consists of two technical analysis deliverables and a written report to present your results. Submit the following:
 
-###Deliverable 1: Replace ninth-grade reading and math scores
+### Deliverable 1: Replace ninth-grade reading and math scores
 
 Step 1: Install numpy using conda install numpy or pip install numpy. Import numpy as np.
 Step 2. Use the loc method on the student_data_df to select all the reading scores from the 9th grade at Thomas High School and replace them with NaN.
@@ -18,7 +18,7 @@ Step 3. Refactor the code in Step 2 to replace the math scores with NaN.
 Step 4. Check the student data for NaN's. 
 Step 5. Verify that your student_data_df has NaA for both math and reading for Thomas High School
 
-###Deliverable 2: Repeat the school district analysis
+### Deliverable 2: Repeat the school district analysis
 Step 1. Get the number of students that are in ninth grade at Thomas High School. These students have no grades. 
 Step 2. Subtract the number of students that are in ninth grade at Thomas High School from the total student count to get the new total student count.
 Step 3. Calculate the passing percentages with the new total student count.
@@ -41,16 +41,16 @@ Verify Thomas High School metric changes. Print df.
 
 Next, complete the following steps for school district analysis using the remaining steps that are provided in the starter code.
 
-The top 5 and bottom 5 performing schools, based on the overall passing rate
-The average math score for each grade level from each school
-The average reading score for each grade level from each school
-The scores by school spending per student, by school size, and by school type
+The top 5 and bottom 5 performing schools, based on the overall passing rate.
+The average math score for each grade level from each school.
+The average reading score for each grade level from each school.
+The scores by school spending per student, by school size, and by school type.
 
 ## Results
 
 ### Deliverable 1
 
-The reading and math scores for the ninth graders in Thomas High school are replaced with NaNs
+The reading and math scores for the ninth graders in Thomas High school are replaced with NaNs.
 
 <Insert NaA>
 
@@ -58,9 +58,9 @@ The reading and math scores for the ninth graders in Thomas High school are repl
 
 #### District Summary
 
-Original Summary
+##### Original Summary
 <<Insert Original Summary>>
-Revised Summary
+##### Revised Summary
 <Insert Revised Summary>
 
 The following metrics were affected by the change in Thomas High School ISD's ninth grade scores being replaced by NaN.
@@ -84,9 +84,9 @@ The overall percentage of students passing reading dropped .3 points from 86 to 
 The overall percentage passing dropped from .1 points from 65 to 64.9.
 
 #### School Summary
-Original School Summary
+##### Original School Summary
 <<Insert Original Summary>>
-Revised School Summary
+##### Revised School Summary
 <Insert Revised Summary>
 
 The following metrics were affected by the change in Thomas High School ISD's ninth grade scores being replaced by NaN.
