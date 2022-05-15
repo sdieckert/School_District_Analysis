@@ -135,13 +135,13 @@ The overall percentage of students at Thomas High School passing dropped from .3
 #### Average Reading Score for each grade from each school
 ![Average reading by grade](https://user-images.githubusercontent.com/87085239/168456306-7a9325c1-3cb6-48d5-ba0a-8fe2a7f129d4.png)
 
-#### The scores by school spending per student
+#### Scores By School Spending Per Student
 ![School Spending](https://user-images.githubusercontent.com/87085239/168456348-626dacec-08b7-4630-854c-ee25318ea2fe.png)
 
-#### The scores by school size 
+#### Scores By School Size 
 ![School Size](https://user-images.githubusercontent.com/87085239/168456353-cbdff5ed-9032-43c5-bd32-26daaaba4f6c.png)
 
-#### The scores by school type
+#### Scores By School Type
 ![School Type](https://user-images.githubusercontent.com/87085239/168456359-9c9ef775-3e6f-4cee-900f-ea1b3bf6d25e.png)
 
 ## Summary
