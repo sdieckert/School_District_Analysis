@@ -97,6 +97,9 @@ The following metrics were affected by the change in Thomas High School ISD's ni
 - Total Student Count
 The original student dataset for Thomas High School consisted of 1,635 students. After using the loc method to isolate the 1,174 Thomas High School ninth 10th, 11th and 12th graders, it became the new student count for the metrics.
 
+- Per Student Budget
+Remains unchanged from the original
+
 - Average Math Score
 The overall average math score for Thomas High School dropped 0.07 points from 83.42 to 83.35. 
 
