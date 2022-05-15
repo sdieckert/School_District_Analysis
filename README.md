@@ -12,11 +12,11 @@ Challenge consists of two technical analysis deliverables and a written report t
 
 ### Deliverable 1: Replace ninth-grade reading and math scores
 
-Step 1: Install numpy using conda install numpy or pip install numpy. Import numpy as np.
-Step 2. Use the loc method on the student_data_df to select all the reading scores from the 9th grade at Thomas High School and replace them with NaN.
-Step 3. Refactor the code in Step 2 to replace the math scores with NaN.
-Step 4. Check the student data for NaN's. 
-Step 5. Verify that your student_data_df has NaA for both math and reading for Thomas High School
+Step 1: Install numpy using conda install numpy or pip install numpy. Import numpy as np
+Step 2: Use the loc method on the student_data_df to select all the reading scores from the 9th grade at Thomas High School and replace them with NaN
+Step 3: Refactor the code in Step 2 to replace the math scores with NaN
+Step 4: Check the student data for NaN's
+Step 5: Verify that your student_data_df has NaA for both math and reading for Thomas High School
 
 ### Deliverable 2: Repeat the school district analysis
 Step 1. Get the number of students that are in ninth grade at Thomas High School. These students have no grades. 
