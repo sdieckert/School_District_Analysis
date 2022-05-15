@@ -52,15 +52,17 @@ The scores by school spending per student, by school size, and by school type.
 
 The reading and math scores for the ninth graders in Thomas High school are replaced with NaNs.
 
-
+![NaN](https://user-images.githubusercontent.com/87085239/168456192-e2b9519e-e36e-427d-9ba2-4266bed9d4c6.png)
 
 ### Deliverable 2
 
 #### District Summary
 
 ##### Original Summary
+![Original District Summary](https://user-images.githubusercontent.com/87085239/168456210-73762e75-407b-4ba6-bc37-b758aa83c881.png)
 
 ##### Revised Summary
+![Revised District Summary](https://user-images.githubusercontent.com/87085239/168456213-98feacef-fb98-4e94-a58b-7ad6afd787a9.png)
 
 
 
@@ -87,10 +89,13 @@ The overall percentage passing dropped from .1 points from 65 to 64.9.
 #### School Summary
 
 ##### Original School Summary
+![Original School Summary](https://user-images.githubusercontent.com/87085239/168456220-60e5ffa4-0598-4501-9eeb-a739b23de2b1.png)
 
+##### Revised School Summary Before Removing 9 Grade Student Totals From Calculations
+![Revised School Summary Not Removing 9th Grade](https://user-images.githubusercontent.com/87085239/168456270-030fcda6-69f1-42b3-8539-62b83f939640.png)
 
-##### Revised School Summary
-
+##### Revised School Summary Excluding 9 Grade
+![Revised School Summary](https://user-images.githubusercontent.com/87085239/168456276-863e6ec0-aa16-485b-8997-8705e71e5a24.png)
 
 The following metrics were affected by the change in Thomas High School ISD's ninth grade scores being replaced by NaN.
 
@@ -116,14 +121,25 @@ The overall percentage of Thomas High School students passing reading dropped .2
 The overall percentage of students at Thomas High School passing dropped from .32 points from 90.95 to 90.63.
 
 #### Top 5 Performing Schools
+![Top 5](https://user-images.githubusercontent.com/87085239/168456291-ba4fa078-8528-4bb0-941f-a2f74f8bb0da.png)
 
 #### Bottom 5 Performing Schools
+![Bottom 5](https://user-images.githubusercontent.com/87085239/168456298-45c45ae6-ef09-4162-93f1-3f2eac08083b.png)
 
 #### Average Math Score for each grade from each school
+![Average math by grade](https://user-images.githubusercontent.com/87085239/168456301-dbfa3f30-222b-4fe8-90f1-606783330eed.png)
 
 #### Average Reading Score for each grade from each school
+![Average reading by grade](https://user-images.githubusercontent.com/87085239/168456306-7a9325c1-3cb6-48d5-ba0a-8fe2a7f129d4.png)
 
-#### The scores by school spending per student, by school size and by school type
+#### The scores by school spending per student
+![School Spending](https://user-images.githubusercontent.com/87085239/168456348-626dacec-08b7-4630-854c-ee25318ea2fe.png)
+
+#### The scores by school size 
+![School Size](https://user-images.githubusercontent.com/87085239/168456353-cbdff5ed-9032-43c5-bd32-26daaaba4f6c.png)
+
+#### The scores by school type
+![School Type](https://user-images.githubusercontent.com/87085239/168456359-9c9ef775-3e6f-4cee-900f-ea1b3bf6d25e.png)
 
 ## Summary
 
