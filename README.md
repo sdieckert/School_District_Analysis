@@ -91,11 +91,14 @@ The overall percentage passing dropped from .1 points from 65 to 64.9.
 ##### Original School Summary
 ![Original School Summary](https://user-images.githubusercontent.com/87085239/168456220-60e5ffa4-0598-4501-9eeb-a739b23de2b1.png)
 
-##### Revised School Summary Before Removing 9 Grade Student Totals From Calculations
+
+##### Revised School Summary Before Excluding 9th Grade
 ![Revised School Summary Not Removing 9th Grade](https://user-images.githubusercontent.com/87085239/168456270-030fcda6-69f1-42b3-8539-62b83f939640.png)
+
 
 ##### Revised School Summary Excluding 9 Grade
 ![Revised School Summary](https://user-images.githubusercontent.com/87085239/168456276-863e6ec0-aa16-485b-8997-8705e71e5a24.png)
+
 
 The following metrics were affected by the change in Thomas High School ISD's ninth grade scores being replaced by NaN.
 
