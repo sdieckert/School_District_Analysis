@@ -52,20 +52,17 @@ The scores by school spending per student, by school size, and by school type.
 
 The reading and math scores for the ninth graders in Thomas High school are replaced with NaNs.
 
-NaN.png
 
-<Insert NaA>
 
 ### Deliverable 2
 
-##### District Summary
+#### District Summary
 
 ##### Original Summary
 
-<Insert Original Summary>
 ##### Revised Summary
 
-<Insert Revised Summary>
+
 
 The following metrics were affected by the change in Thomas High School ISD's ninth grade scores being replaced by NaN.
 
@@ -88,10 +85,12 @@ The overall percentage of students passing reading dropped .3 points from 86 to 
 The overall percentage passing dropped from .1 points from 65 to 64.9.
 
 #### School Summary
+
 ##### Original School Summary
-<<Insert Original Summary>>
+
+
 ##### Revised School Summary
-<Insert Revised Summary>
+
 
 The following metrics were affected by the change in Thomas High School ISD's ninth grade scores being replaced by NaN.
 
