@@ -149,7 +149,7 @@ The overall percentage of students at Thomas High School passing dropped from .3
 The 4 main changes that resulted in changing Thomas High School to NaNs.
 - The districts overall math average, percentage passing math and reading and percentage of overall passing dropped a min of .1 to a max of .3 points.
 
-- Thomas High School's math average, percentage passing math and reading and percentage of overall passing dropped but their average reading score increased slightly.
+- Thomas High School's math average, percentage passing math and reading, and percentage of overall passing dropped but their average reading score increased slightly.
 
 - Replacing Thomas High School's 9th grade scores had no affect on the school being ranked 2nd overall in the district.
 
