@@ -69,7 +69,7 @@ The reading and math scores for the ninth graders in Thomas High school are repl
 The following metrics were affected by the change in Thomas High School ISD's ninth grade scores being replaced by NaN.
 
 - Total Student Count For Calculations
-The original student dataset consisted of 39,170 students. After using the loc method to isolate the 461 Thomas High School ninth graders, new student count to use in percentage metrics changed to 38,709.
+The original student dataset consisted of 39,170 students. After using the loc method to isolate the 461 Thomas High School ninth graders, the new student count to use in percentage calculations changed to 38,709.
 
 - Average Math Score
 The overall average math score for the district dropped 0.1 points from 79.0 to 79.9. 
